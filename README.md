@@ -7,4 +7,8 @@ AmongUsのMODのカスタムハットとしてMODへの引用を許可します�
 ハット画像の改変はしないでね。<br>
 <br>
 特定のハットだけをMODに組み込みたい場合は書式を合わせてMODさんに提出するのでTwitterあたりにでも連絡ください。<br>
-https://twitter.com/Rinforzando_960
+https://twitter.com/Rinforzando_960<br>
+<br>
+ハットのリクエストはマシュマロにでもどうぞ。<br>
+必ず作成するとは限りませんがお題に困ったときに参考にするかもしれません。<br>
+https://marshmallow-qa.com/rinforzando_960?utm_medium=url_text&utm_source=promotion
