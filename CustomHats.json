@@ -2,7 +2,7 @@
 	"hats": [
 	{
 		"name": "へっぽこ天使",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "hpktenshi.png",
@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "九尾の狐",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "kyubi_adaptive.png",
@@ -23,7 +23,7 @@
 	},
 	{
 		"name": "VTuber風衣装",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "vtuberstyle_adaptive.png",
@@ -32,7 +32,7 @@
 	},
 	{
 		"name": "ゴスロリ",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "gosuroriSON_adaptive.png",
@@ -42,7 +42,7 @@
 	},
 	{
 		"name": "ドラゴン",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "dragonSON.png",
@@ -51,7 +51,7 @@
 	},
 	{
 		"name": "ドラゴンcolor",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "dragonSONcolor_adaptive.png",
@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "ミニスカメイド",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "maidmini_adaptive.png",
@@ -70,7 +70,7 @@
 	},
 	{
 		"name": "柴犬",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "shiba_adaptive.png",
@@ -80,7 +80,7 @@
 	},
 	{
 		"name": "魔女",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "witch_adaptive.png",
@@ -89,7 +89,7 @@
 	},
 	{
 		"name": "狼",
-		"author": セオノ",
+		"author": "セオノ",
 		"package": "SeonoHats",
 		"condition": "None",
 		"resource": "wolfSON_adaptive.png",
