@@ -1,0 +1,206 @@
+{
+    "hats": [
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u3078\u3063\u307d\u3053\u5929\u4f7f",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "hpktenshi.png"
+                "Hash": "0"
+            },
+            "Flip": {
+                "Address": "hpktenshi_flip.png"
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "hpktenshi_back.png"
+                "Hash": "0"
+            },
+            "BackFlip": {
+                "Address": "hpktenshi_back_flip.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "hpktenshi_climb.png"
+                "Hash": "0"
+            }
+        }
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u4e5d\u5c3e\u306e\u72d0",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "kyubi_adaptive.png"
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "kyubi_adaptive_back.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "kyubi_adaptive_climb.png"
+                "Hash": "0"
+            }
+        }
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "VTuber\u98a8\u8863\u88c5",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "vtuberstyle_adaptive.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "vtuberstyle_adaptive_climb.png"
+                "Hash": "0"
+            }
+        }
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u30b4\u30b9\u30ed\u30ea",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "gosuroriSON_adaptive.png"
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "gosuroriSON_back.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "gosuroriSON_climb.png"
+                "Hash": "0"
+            }
+        }
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u30c9\u30e9\u30b4\u30f3",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "dragonSON.png"
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "dragonSON_back.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "dragonSON_climb.png"
+                "Hash": "0"
+            }
+        }
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u30c9\u30e9\u30b4\u30f3color",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "dragonSONcolor_adaptive.png"
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "dragonSONcolor_back.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "dragonSONcolor_climb.png"
+                "Hash": "0"
+            }
+        }
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u30df\u30cb\u30b9\u30ab\u30e1\u30a4\u30c9",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "maidmini_adaptive.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "maidmini_climb.png"
+                "Hash": "0"
+            }
+        }
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u67f4\u72ac",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "shiba_adaptive.png"
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "shiba_back.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "shiba_climb.png"
+                "Hash": "0"
+            }
+        }
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u9b54\u5973",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "witch_adaptive.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "witch_adaptive_climb.png"
+                "Hash": "0"
+            }
+        }
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u72fc",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "wolfSON_adaptive.png"
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "wolfSON_back.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "wolfSON_climb.png"
+                "Hash": "0"
+            }
+        }
+    ],
+    "packages": [
+    {
+        "Package": "SeonoHats",
+        "Format": "SeonoHats",
+        "Priority" : "500"
+    }
+}
