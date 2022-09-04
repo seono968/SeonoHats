@@ -9,23 +9,23 @@
             "Behind": "false",
             "Main": {
                 "Address": "hpktenshi.png",
-                "Hash": "0"
+                "Hash": "af1cf2c2de9824835845fddd231f9cfa"
             },
             "Flip": {
                 "Address": "hpktenshi_flip.png",
-                "Hash": "0"
+                "Hash": "173f68acd23890184c8ce3240263d466"
             },
             "Back": {
                 "Address": "hpktenshi_back.png",
-                "Hash": "0"
+                "Hash": "bfadf9c9c9c080fcd54e702653053ac0"
             },
             "BackFlip": {
                 "Address": "hpktenshi_back_flip.png",
-                "Hash": "0"
+                "Hash": "0c5873706fd9098ecb6dc853d0cff4ed"
             },
             "Climb": {
                 "Address": "hpktenshi_climb.png",
-                "Hash": "0"
+                "Hash": "66d554fdf9c3e470d41a9d86c460b3be"
             }
         },
         {
@@ -37,15 +37,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "kyubi_adaptive.png",
-                "Hash": "0"
+                "Hash": "1614bbf4a9c20c9f629b14eb273c6e3c"
             },
             "Back": {
                 "Address": "kyubi_adaptive_back.png",
-                "Hash": "0"
+                "Hash": "75be188d5ccad40094a8c94ad71c530f"
             },
             "Climb": {
                 "Address": "kyubi_adaptive_climb.png",
-                "Hash": "0"
+                "Hash": "3382d89f8857a7cc29a4793e5f8b8c47"
             }
         },
         {
@@ -57,11 +57,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "vtuberstyle_adaptive.png",
-                "Hash": "0"
+                "Hash": "bf5c544b7e2d26d096943b82a0373885"
             },
             "Climb": {
                 "Address": "vtuberstyle_adaptive_climb.png",
-                "Hash": "0"
+                "Hash": "1ff0be9e00525af0cd4754ad698cb2ab"
             }
         },
         {
@@ -73,15 +73,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "gosuroriSON_adaptive.png",
-                "Hash": "0"
+                "Hash": "b072916863d02415cbd8efe32ea74ef4"
             },
             "Back": {
                 "Address": "gosuroriSON_back.png",
-                "Hash": "0"
+                "Hash": "664c929cc84cd7abe9d3ddd74c49dbbe"
             },
             "Climb": {
                 "Address": "gosuroriSON_climb.png",
-                "Hash": "0"
+                "Hash": "015a4e9562c6d34cd83634bccb8cf527"
             }
         },
         {
@@ -93,15 +93,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "dragonSON.png",
-                "Hash": "0"
+                "Hash": "e9fa7af1b9786a2b4c4862c1c7de644f"
             },
             "Back": {
                 "Address": "dragonSON_back.png",
-                "Hash": "0"
+                "Hash": "f3edd7bbb41e44bab3c0f5b61cf8d95f"
             },
             "Climb": {
                 "Address": "dragonSON_climb.png",
-                "Hash": "0"
+                "Hash": "a1cf66298c608e1684d02cd58ccf9af5"
             }
         },
         {
@@ -113,15 +113,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "dragonSONcolor_adaptive.png",
-                "Hash": "0"
+                "Hash": "57665fb8b5ac92c4c134842879b393b6"
             },
             "Back": {
                 "Address": "dragonSONcolor_back.png",
-                "Hash": "0"
+                "Hash": "14a251855ce2ff54c649db8355d0bf55"
             },
             "Climb": {
                 "Address": "dragonSONcolor_climb.png",
-                "Hash": "0"
+                "Hash": "61f1bb76df4f1f04863117eb534e794d"
             }
         },
         {
@@ -133,11 +133,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "maidmini_adaptive.png",
-                "Hash": "0"
+                "Hash": "a3397cc32f5b877f55409fb62b61540e"
             },
             "Climb": {
                 "Address": "maidmini_climb.png",
-                "Hash": "0"
+                "Hash": "73c84ccfcab39d2109c924bea2239a87"
             }
         },
         {
@@ -149,15 +149,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "shiba_adaptive.png",
-                "Hash": "0"
+                "Hash": "ad5c497f8c3e160a2415e026adce7e3a"
             },
             "Back": {
                 "Address": "shiba_back.png",
-                "Hash": "0"
+                "Hash": "2eed3b87a6c38430c89c80d63873cdd9"
             },
             "Climb": {
                 "Address": "shiba_climb.png",
-                "Hash": "0"
+                "Hash": "44759529f96f14e769b5616a8d269596"
             }
         },
         {
@@ -169,11 +169,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "witch_adaptive.png",
-                "Hash": "0"
+                "Hash": "bb4af59a31a20e5c2977aad113d48414"
             },
             "Climb": {
                 "Address": "witch_adaptive_climb.png",
-                "Hash": "0"
+                "Hash": "cd95ddfe2b2b782baf805dc7f255c7d2"
             }
         },
         {
@@ -185,15 +185,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "wolfSON_adaptive.png",
-                "Hash": "0"
+                "Hash": "828fe384cad1a20efa03f51d621dab1e"
             },
             "Back": {
                 "Address": "wolfSON_back.png",
-                "Hash": "0"
+                "Hash": "f03d424ecb37d0805a2bd3e2ca2a1e38"
             },
             "Climb": {
                 "Address": "wolfSON_climb.png",
-                "Hash": "0"
+                "Hash": "ea4fcb414478339c0b18630807d110da"
             }
         }
     ],
