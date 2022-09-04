@@ -198,10 +198,10 @@
         }
     ],
     "packages": [
-    {
-        "Package": "SeonoHats",
-        "Format": "SeonoHats",
-        "Priority" : "500"
-    }
-    ],
+            {
+                "Package": "SeonoHats",
+                "Format": "SeonoHats",
+                "Priority" : "500"
+            }
+    ]
 }
