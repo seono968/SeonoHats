@@ -53,7 +53,7 @@
             "Package": "SeonoHats",
             "Name" : "VTuber\u98a8\u8863\u88c5",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "false",
             "Main": {
                 "Address": "vtuberstyle_adaptive.png"
