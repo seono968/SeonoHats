@@ -97,5 +97,25 @@
 		"climbresource": "wolfSON_climb.png",
 		"adaptive": true,
 	},
+        {
+            "name": "ローブ",
+            "author": "セオノ",
+            "package": "SeonoHats",
+            "condition": "None",
+            "resource": "SimpleRobeSON_adaptive.png",
+            "backresource": "SimpleRobeSON_back.png",
+            "climbresource": "SimpleRobeSON_climb.png",
+            "adaptive": true,
+        },
+        {
+            "name": "ローブColor",
+            "author": "セオノ",
+            "package": "SeonoHats",
+            "condition": "None",
+            "resource": "SimpleRobeSONcolor_adaptive.png",
+            "backresource": "SimpleRobeSONcolor_back.png",
+            "climbresource": "SimpleRobeSONcolor_climb.png",
+            "adaptive": true,
+        },
 	]
 }

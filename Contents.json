@@ -195,6 +195,46 @@
                 "Address": "wolfSON_climb.png",
                 "Hash": "ea4fcb414478339c0b18630807d110da"
             }
+        },
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u30ed\u30fc\u30d6",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "SimpleRobeSON_adaptive.png",
+                "Hash": "6d5965ef33ae32b28917a44fcb2625b3"
+            },
+            "Back": {
+                "Address": "SimpleRobeSON_back.png",
+                "Hash": "8e7b189ad214a991a89c6a625df709ba"
+            },
+            "Climb": {
+                "Address": "SimpleRobeSON_climb.png",
+                "Hash": "7097020c6ce50ca37a5edfcaf94adc99"
+            }
+        },
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u30ed\u30fc\u30d6Color",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "SimpleRobeSONcolor_adaptive.png",
+                "Hash": "de85f29a378c3c6c3b08312236635724"
+            },
+            "Back": {
+                "Address": "SimpleRobeSONcolor_back.png",
+                "Hash": "05bdff019b524f31731bc3c2e8e72d44"
+            },
+            "Climb": {
+                "Address": "SimpleRobeSONcolor_climb.png",
+                "Hash": "3598acc7e77e9da22cfa5be3b24c8266"
+            }
         }
     ],
     "packages": [
