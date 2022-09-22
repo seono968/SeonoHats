@@ -113,11 +113,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "dragonSONcolor_adaptive.png",
-                "Hash": "57665fb8b5ac92c4c134842879b393b6"
+                "Hash": "b4027d69458dd69032062ca68a10696a"
             },
             "Back": {
                 "Address": "dragonSONcolor_back.png",
-                "Hash": "14a251855ce2ff54c649db8355d0bf55"
+                "Hash": "720b4ec7f82fb3499f6e37ac1778c9f9"
             },
             "Climb": {
                 "Address": "dragonSONcolor_climb.png",
