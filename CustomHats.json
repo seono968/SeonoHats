@@ -9,7 +9,7 @@
 		"backresource": "hpktenshi_back.png",
 		"flipresource": "hpktenshi_flip.png",
 		"backflipresource": "hpktenshi_back_flip.png",
-		"climbresource": "hpktenshi_climb.png",
+		"climbresource": "hpktenshi_climb.png"
 	},
 	{
 		"name": "九尾の狐",
@@ -19,7 +19,7 @@
 		"resource": "kyubi_adaptive.png",
 		"backresource": "kyubi_adaptive_back.png",
 		"climbresource": "kyubi_adaptive_climb.png",
-		"adaptive": true,
+		"adaptive": true
 	},
 	{
 		"name": "VTuber風衣装",
@@ -28,7 +28,7 @@
 		"condition": "None",
 		"resource": "vtuberstyle_adaptive.png",
 		"climbresource": "vtuberstyle_adaptive_climb.png",
-		"adaptive": true,
+		"adaptive": true
 	},
 	{
 		"name": "ゴスロリ",
@@ -38,7 +38,7 @@
 		"resource": "gosuroriSON_adaptive.png",
 		"backresource": "gosuroriSON_back.png",
 		"climbresource": "gosuroriSON_climb.png",
-		"adaptive": true,
+		"adaptive": true
 	},
 	{
 		"name": "ドラゴン",
@@ -47,7 +47,7 @@
 		"condition": "None",
 		"resource": "dragonSON.png",
 		"backresource": "dragonSON_back.png",
-		"climbresource": "dragonSON_climb.png",
+		"climbresource": "dragonSON_climb.png"
 	},
 	{
 		"name": "ドラゴンcolor",
@@ -57,7 +57,7 @@
 		"resource": "dragonSONcolor_adaptive.png",
 		"backresource": "dragonSONcolor_back.png",
 		"climbresource": "dragonSONcolor_climb.png",
-		"adaptive": true,
+		"adaptive": true
 	},
 	{
 		"name": "ミニスカメイド",
@@ -66,7 +66,7 @@
 		"condition": "None",
 		"resource": "maidmini_adaptive.png",
 		"climbresource": "maidmini_climb.png",
-		"adaptive": true,
+		"adaptive": true
 	},
 	{
 		"name": "柴犬",
@@ -76,7 +76,7 @@
 		"resource": "shiba_adaptive.png",
 		"backresource": "shiba_back.png",
 		"climbresource": "shiba_climb.png",
-		"adaptive": true,
+		"adaptive": true
 	},
 	{
 		"name": "魔女",
@@ -85,7 +85,7 @@
 		"condition": "None",
 		"resource": "witch_adaptive.png",
 		"climbresource": "witch_adaptive_climb.png",
-		"adaptive": true,
+		"adaptive": true
 	},
 	{
 		"name": "狼",
@@ -95,7 +95,7 @@
 		"resource": "wolfSON_adaptive.png",
 		"backresource": "wolfSON_back.png",
 		"climbresource": "wolfSON_climb.png",
-		"adaptive": true,
+		"adaptive": true
 	},
         {
             "name": "ローブ",
@@ -105,7 +105,7 @@
             "resource": "SimpleRobeSON_adaptive.png",
             "backresource": "SimpleRobeSON_back.png",
             "climbresource": "SimpleRobeSON_climb.png",
-            "adaptive": true,
+            "adaptive": true
         },
         {
             "name": "ローブColor",
@@ -115,7 +115,18 @@
             "resource": "SimpleRobeSONcolor_adaptive.png",
             "backresource": "SimpleRobeSONcolor_back.png",
             "climbresource": "SimpleRobeSONcolor_climb.png",
-            "adaptive": true,
+            "adaptive": true
         },
+		{
+			"name": "大天使",
+			"author": "セオノ",
+			"package": "SeonoHats",
+			"condition": "None",
+			"resource": "HighAngleSON.png",
+			"backresource": "HighAngleSON_back.png",
+			"flipresource": "HighAngleSON_flip.png",
+			"backflipresource": "HighAngleSON_flip_back.png",
+			"climbresource": "HighAngleSON_climb.png"
+		}
 	]
 }

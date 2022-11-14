@@ -235,6 +235,34 @@
                 "Address": "SimpleRobeSONcolor_climb.png",
                 "Hash": "3598acc7e77e9da22cfa5be3b24c8266"
             }
+        },
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u5927\u5929\u4f7f",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "HighAngleSON.png",
+                "Hash": "7ee6d302a418c65524892f1bd1d955ea"
+            },
+            "Flip": {
+                "Address": "HighAngleSON_flip.png",
+                "Hash": "23fae3c4db3e036552d6b9088c12a44f"
+            },
+            "Back": {
+                "Address": "HighAngleSON_back.png",
+                "Hash": "82e6dc6de9433a8306b128ccfd014d47"
+            },
+            "BackFlip": {
+                "Address": "HighAngleSON_flip_back.png",
+                "Hash": "f5123ce745b36d4a2627a1e9813b21ab"
+            },
+            "Climb": {
+                "Address": "HighAngleSON_climb.png",
+                "Hash": "ca29d831087ef1a79bc801115b656ea5"
+            }
         }
     ],
     "packages": [
