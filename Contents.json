@@ -263,34 +263,6 @@
                 "Address": "HighAngleSON_climb.png",
                 "Hash": "ca29d831087ef1a79bc801115b656ea5"
             }
-        },
-        {
-            "Author": "\u30bb\u30aa\u30ce",
-            "Package": "SeonoHats",
-            "Name" : "\u62db\u304d\u732b",
-            "Bounce": "false",
-            "Adaptive": "ture",
-            "Behind": "false",
-            "Main": {
-                "Address": "manekoSON_adaptive.png",
-                "Hash": "0"
-            },
-            "Flip": {
-                "Address": "manekoSON_flip.png",
-                "Hash": "0"
-            },
-            "Back": {
-                "Address": "manekoSON_back.png",
-                "Hash": "0"
-            },
-            "BackFlip": {
-                "Address": "manekoSON_flip_back.png",
-                "Hash": "0"
-            },
-            "Climb": {
-                "Address": "manekoSON_climb.png",
-                "Hash": "0"
-            }
         }
     ],
     "packages": [
