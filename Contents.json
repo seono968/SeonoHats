@@ -273,23 +273,23 @@
             "Behind": "false",
             "Main": {
                 "Address": "manekinekoSON_adaptive.png",
-                "Hash": "0"
+                "Hash": "167e9964329d70b68e0aff8be28e0f22"
             },
             "Flip": {
                 "Address": "manekinekoSON_flip.png",
-                "Hash": "0"
+                "Hash": "7f1a8a31639b24b7f9dc7ed34e039f3d"
             },
             "Back": {
                 "Address": "manekinekoSON_back.png",
-                "Hash": "0"
+                "Hash": "30341ad3158275480f4d78fda8d357ea"
             },
             "BackFlip": {
                 "Address": "manekinekoSON_flip_back.png",
-                "Hash": "0"
+                "Hash": "153d71a67198348f03712dd98fd3f398"
             },
             "Climb": {
                 "Address": "manekinekoSON_climb.png",
-                "Hash": "0"
+                "Hash": "a0043f9c403ad5da36e09ce70f123040"
             }
         }
     ],
