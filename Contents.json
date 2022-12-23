@@ -301,11 +301,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "XmasCapeSON.png",
-                "Hash": "0"
+                "Hash": "71bb8c0552f3d8c867f67ba812b40832"
             },
             "Climb": {
                 "Address": "XmasCapeSON_climb.png",
-                "Hash": "0"
+                "Hash": "efd53e3516f30061b17f6c038a09ba36"
             }
         }
     ],
