@@ -131,7 +131,7 @@
 		{
             "name": "招き猫",
             "author": "セオノ",
-            "package": "SeonoCollection",
+            "package": "SeonoHats",
             "condition": "None",
             "resource": "manekinekoSON_adaptive.png",
             "backresource": "manekinekoSON_back.png",
@@ -139,6 +139,14 @@
             "backflipresource": "manekinekoSON_flip_back.png",
             "climbresource": "manekinekoSON_climb.png",
             "adaptive": true
+        },
+		{
+            "name": "クリスマスケープ",
+            "author": "セオノ",
+            "package": "SeonoHats",
+            "condition": "None",
+            "resource": "XmasCapeSON.png",
+            "climbresource": "XmasCapeSON_climb.png"
         }
 	]
 }

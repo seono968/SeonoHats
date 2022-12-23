@@ -291,6 +291,22 @@
                 "Address": "manekinekoSON_climb.png",
                 "Hash": "a0043f9c403ad5da36e09ce70f123040"
             }
+        },
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u30af\u30ea\u30b9\u30de\u30b9\u30b1\u30fc\u30d7",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "XmasCapeSON.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "XmasCapeSON_climb.png",
+                "Hash": "0"
+            }
         }
     ],
     "packages": [
