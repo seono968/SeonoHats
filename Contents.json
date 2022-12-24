@@ -307,6 +307,38 @@
                 "Address": "XmasCapeSON_climb.png",
                 "Hash": "efd53e3516f30061b17f6c038a09ba36"
             }
+        },
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u3075\u308f\u306d\u3053\u30b1\u30fc\u30d7",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "SONFuwaNekoCape.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "SONFuwaNekoCape_climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "\u30bb\u30aa\u30ce",
+            "Package": "SeonoHats",
+            "Name" : "\u3075\u308f\u306d\u3053\u30b1\u30fc\u30d7Color",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "SONFuwaNekoCapeColor_adaptive.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "SONFuwaNekoCapeColor_climb.png",
+                "Hash": "0"
+            }
         }
     ],
     "packages": [
