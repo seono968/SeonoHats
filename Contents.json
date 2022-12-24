@@ -317,11 +317,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "SONFuwaNekoCape.png",
-                "Hash": "0"
+                "Hash": "856f323879b697c28d60658261a13c1a"
             },
             "Climb": {
                 "Address": "SONFuwaNekoCape_climb.png",
-                "Hash": "0"
+                "Hash": "848d67ef92b45e644989a6c3b81f4216"
             }
         },
         {
@@ -333,11 +333,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "SONFuwaNekoCapeColor_adaptive.png",
-                "Hash": "0"
+                "Hash": "86e733aff0b91bc1fe95734e64a2a422"
             },
             "Climb": {
                 "Address": "SONFuwaNekoCapeColor_climb.png",
-                "Hash": "0"
+                "Hash": "7c2872005689b00c91ed095f6c219bdd"
             }
         }
     ],
