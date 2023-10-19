@@ -49,6 +49,27 @@
             }
         },
         {
+            "Author":"\u30bb\u30aa\u30ce",
+            "Package":"SeonoHats",
+            "Name":"\u72d0",
+            "Main":{
+                "Address":"30BB30AA30CE/72D0/Main.png",
+                "Hash":"a618d21fef306ece799809e19dd54ef1"
+            },
+            "Back":{
+                "Address":"30BB30AA30CE/72D0/Back.png",
+                "Hash":"9c7737b12d3b63fee55430c897a56348"
+            },
+            "Climb":{
+                "Address":"30BB30AA30CE/72D0/Climb.png",
+                "Hash":"c704f810a041b06cb7bf004dced8aa06"
+            },
+            "Bounce":"False",
+            "Adaptive":"True",
+            "HideHands":"False",
+            "IsSkinny":"False"
+        },
+        {
             "Author": "\u30bb\u30aa\u30ce",
             "Package": "SeonoHats",
             "Name" : "VTuber\u98a8\u8863\u88c5",
