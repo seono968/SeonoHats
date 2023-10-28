@@ -380,7 +380,7 @@
             "Bounce":"False",
             "Adaptive":"False",
             "HideHands":"False",
-            "IsSkinny":"False"
+            "IsSkinny":"True"
         },
         {
             "Author":"\u30bb\u30aa\u30ce",
@@ -401,7 +401,7 @@
             "Bounce":"False",
             "Adaptive":"True",
             "HideHands":"False",
-            "IsSkinny":"False"
+            "IsSkinny":"True"
         },
         {
             "Author":"\u30bb\u30aa\u30ce",
