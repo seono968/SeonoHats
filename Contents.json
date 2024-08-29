@@ -35,6 +35,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "Tags" : ["animal"],
             "Main": {
                 "Address": "kyubi_adaptive.png",
                 "Hash": "1614bbf4a9c20c9f629b14eb273c6e3c"
@@ -52,6 +53,7 @@
             "Author":"\u30bb\u30aa\u30ce",
             "Package":"SeonoHats",
             "Name":"\u72d0",
+            "Tags" : ["animal"],
             "Main":{
                 "Address":"30BB30AA30CE/72D0/Main.png",
                 "Hash":"a618d21fef306ece799809e19dd54ef1"
@@ -168,6 +170,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "Tags" : ["animal"],
             "Main": {
                 "Address": "shiba_adaptive.png",
                 "Hash": "ad5c497f8c3e160a2415e026adce7e3a"
@@ -204,6 +207,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "Tags" : ["animal"],
             "Main": {
                 "Address": "wolfSON_adaptive.png",
                 "Hash": "828fe384cad1a20efa03f51d621dab1e"
@@ -292,6 +296,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "Tags" : ["animal"],
             "Main": {
                 "Address": "manekinekoSON_adaptive.png",
                 "Hash": "167e9964329d70b68e0aff8be28e0f22"
