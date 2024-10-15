@@ -151,7 +151,7 @@
 		{
             "name": "ふわねこケープ",
             "author": "セオノ",
-            "package": "SeonoCollection",
+            "package": "SeonoHats",
             "condition": "None",
             "resource": "SONFuwaNekoCape.png",
             "climbresource": "SONFuwaNekoCape_climb.png"
@@ -159,11 +159,113 @@
         {
             "name": "ふわねこケープColor",
             "author": "セオノ",
-            "package": "SeonoCollection",
+            "package": "SeonoHats",
             "condition": "None",
             "resource": "SONFuwaNekoCapeColor_adaptive.png",
             "climbresource": "SONFuwaNekoCapeColor_climb.png",
             "adaptive": true
+        },
+		{   
+            "name":"おばけ",
+            "author":"セオノ",
+            "package":"SeonoHats",
+            "condition":"None",
+            "resource":"SONghostMain.png",
+            "climbresource":"SONghostClimb.png",
+            "backresource":"SONghostBack.png"
+        },
+        {
+            "name":"カラフルおばけ",
+            "author":"セオノ",
+            "package":"SeonoHats",
+            "condition":"None",
+            "resource":"SONghostAdaMain.png",
+            "climbresource":"SONghostAdaClimb.png",
+            "backresource":"SONghostAdaBack.png",
+            "adaptive":true
+        },
+        {
+            "name":"コウモリ",
+            "author":"セオノ",
+            "package":"SeonoHats",
+            "condition":"None",
+            "resource":"SONbatMain.png",
+            "climbresource":"SONbatClimb.png",
+            "backresource":"SONbatBack.png",
+            "adaptive":true
+        },
+        {
+            "name":"ジャック・オー・ランタン",
+            "author":"セオノ",
+            "package":"SeonoHats",
+            "condition":"None",
+            "resource":"SONjackMain.png",
+            "climbresource":"SONjackClimb.png",
+            "flipresource":"SONjackFlip.png",
+            "backresource":"SONjackBack.png",
+            "backflipresource":"SONjackBackFlip.png",
+            "bounce":true
+        },
+        {
+            "name":"スパイダー",
+            "author":"セオノ",
+            "package":"SeonoHats",
+            "condition":"None",
+            "resource":"SONspiderMain.png",
+            "climbresource":"SONspiderClimb.png",
+            "backresource":"SONspiderBack.png",
+            "adaptive":true
+        },
+        {
+            "name":"フランケンシュタイン",
+            "author":"セオノ",
+            "package":"SeonoHats",
+            "condition":"None",
+            "resource":"SONfrankenMain.png",
+            "climbresource":"SONfrankenClimb.png",
+            "flipresource":"SONfrankenFlip.png",
+            "backresource":"SONfrankenBack.png",
+            "adaptive":true
+        },
+        {
+            "name":"魔女2",
+            "author":"セオノ",
+            "package":"SeonoHats",
+            "condition":"None",
+            "resource":"SONwitch02Main.png",
+            "climbresource":"SONwitch02Climb.png",
+            "backresource":"SONwitch02Back.png",
+            "adaptive":true
+        },
+		{
+            "name": "最低限の羞恥心",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "ipnQoZ0Lb_Main.png",
+            "flipresource": "ipnQoZ0Lb_Flip.png",
+            "climbresource": "ipnQoZ0Lb_Climb.png"
+        },
+		{
+            "name": "麗しきこの肉体(情熱)",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "HVQcLewab_Main.png"
+        },
+        {
+            "name": "麗しきこの肉体(冷静)",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "1I1CQdwab_Main.png"
+        },
+        {
+            "name": "麗しきこの肉体(陽気)",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "Fdd81hwab_Main.png"
         }
 	]
 }
