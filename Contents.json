@@ -67,7 +67,7 @@
                 "Hash":"c704f810a041b06cb7bf004dced8aa06"
             },
             "Bounce":"false",
-            "Adaptive":"True",
+            "Adaptive":"true",
             "HideHands":"false",
             "IsSkinny":"false"
         },
@@ -85,7 +85,8 @@
             "Climb": {
                 "Address": "vtuberstyle_adaptive_climb.png",
                 "Hash": "771d4e03b763f762567aa4885b2a0eca"
-            }
+            },
+            "SeekerCostume": false
         },
         {
             "Author": "\u30bb\u30aa\u30ce",
@@ -105,8 +106,40 @@
             "Climb": {
                 "Address": "gosuroriSON_climb.png",
                 "Hash": "015a4e9562c6d34cd83634bccb8cf527"
+            },
+            "SeekerAlternative" : {
+                "Author" : "セオノ",
+                "Name" : "ゴスロリ_Ber"
             }
+            
         },
+        {
+			"Adaptive" : true,
+			"Main" : {
+				"Hash" : "254e3494748b25cd70c777d8f839fa2c",
+				"Address" : "PSpnjB6s_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "664c929cc84cd7abe9d3ddd74c49dbbe",
+				"Address" : "PSpnjB6s_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "2409a3ee84ce86dc920b2de59765df5b",
+				"Address" : "PSpnjB6s_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "ゴスロリ_Ber",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats",
+			"IsHidden":true
+		},
         {
             "Author": "\u30bb\u30aa\u30ce",
             "Package": "SeonoHats",
@@ -161,8 +194,34 @@
             "Climb": {
                 "Address": "maidmini_climb.png",
                 "Hash": "73c84ccfcab39d2109c924bea2239a87"
+            },
+            "SeekerAlternative" : {
+                "Author" : "セオノ",
+                "Name" : "ミニスカメイド_Ber"
             }
         },
+        {
+			"Adaptive" : true,
+			"Main" : {
+				"Hash" : "0aeeb17d82fc03b0527778e392e2e1e4",
+				"Address" : "9dN9UzYm_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "ac940c8de39ffef3a9843170315a64c5",
+				"Address" : "9dN9UzYm_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "ミニスカメイド_Ber",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats",
+			"IsHidden":true
+		},
         {
             "Author": "\u30bb\u30aa\u30ce",
             "Package": "SeonoHats",
@@ -198,8 +257,34 @@
             "Climb": {
                 "Address": "witch_adaptive_climb.png",
                 "Hash": "cd95ddfe2b2b782baf805dc7f255c7d2"
+            },
+            "SeekerAlternative" : {
+                "Author" : "セオノ",
+                "Name" : "魔女_Ber"
             }
         },
+        {
+			"Adaptive" : true,
+			"Main" : {
+				"Hash" : "121ebece1f53b082eaba5204922f6fea",
+				"Address" : "L9NOznvXb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "42e4aa5da23c8c45d76b1e2d79ca0182",
+				"Address" : "L9NOznvXb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "魔女_Ber",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats",
+			"IsHidden":true
+		},
         {
             "Author": "\u30bb\u30aa\u30ce",
             "Package": "SeonoHats",
@@ -239,7 +324,8 @@
             "Climb": {
                 "Address": "SimpleRobeSON_climb.png",
                 "Hash": "7097020c6ce50ca37a5edfcaf94adc99"
-            }
+            },
+            "SeekerCostume": false
         },
         {
             "Author": "\u30bb\u30aa\u30ce",
@@ -259,7 +345,8 @@
             "Climb": {
                 "Address": "SimpleRobeSONcolor_climb.png",
                 "Hash": "3598acc7e77e9da22cfa5be3b24c8266"
-            }
+            },
+            "SeekerCostume": false
         },
         {
             "Author": "\u30bb\u30aa\u30ce",
@@ -332,7 +419,8 @@
             "Climb": {
                 "Address": "XmasCapeSON_climb.png",
                 "Hash": "efd53e3516f30061b17f6c038a09ba36"
-            }
+            },
+            "SeekerCostume": false
         },
         {
             "Author": "\u30bb\u30aa\u30ce",
@@ -348,7 +436,8 @@
             "Climb": {
                 "Address": "SONFuwaNekoCape_climb.png",
                 "Hash": "848d67ef92b45e644989a6c3b81f4216"
-            }
+            },
+            "SeekerCostume": false
         },
         {
             "Author": "\u30bb\u30aa\u30ce",
@@ -364,7 +453,8 @@
             "Climb": {
                 "Address": "SONFuwaNekoCapeColor_climb.png",
                 "Hash": "7c2872005689b00c91ed095f6c219bdd"
-            }
+            },
+            "SeekerCostume": false
         },
         {
             "Author":"\u30bb\u30aa\u30ce",
@@ -385,7 +475,8 @@
             "Bounce":"false",
             "Adaptive":"false",
             "HideHands":"false",
-            "IsSkinny":"True"
+            "IsSkinny":"true",
+            "SeekerCostume": false
         },
         {
             "Author":"\u30bb\u30aa\u30ce",
@@ -404,9 +495,10 @@
                 "Hash":"7706639db7226590c0d7b5d55c819a73"
             },
             "Bounce":"false",
-            "Adaptive":"True",
+            "Adaptive":"true",
             "HideHands":"false",
-            "IsSkinny":"True"
+            "IsSkinny":"true",
+            "SeekerCostume": false
         },
         {
             "Author":"\u30bb\u30aa\u30ce",
@@ -425,7 +517,7 @@
                 "Hash":"865a30785fa9b33696c9366a78b78dd6"
             },
             "Bounce":"false",
-            "Adaptive":"True",
+            "Adaptive":"true",
             "HideHands":"false",
             "IsSkinny":"false"
         },
@@ -453,7 +545,7 @@
                 "Address":"30BB30AA30CE/0053004F004E006A00610063006B/Climb.png",
                 "Hash":"8fb24ef68c6fac69b07a2661a53a3145"
             },
-            "Bounce":"True",
+            "Bounce":"true",
             "Adaptive":"false",
             "HideHands":"false",
             "IsSkinny":"false"
@@ -475,7 +567,7 @@
                 "Hash":"6492faf730c283a1d9425c44e80cbba6"
             },
             "Bounce":"false",
-            "Adaptive":"True",
+            "Adaptive":"true",
             "HideHands":"false",
             "IsSkinny":"false"
         },
@@ -500,7 +592,7 @@
                 "Hash":"d507a54aa1d047729d022d316c3826c5"
             },
             "Bounce":"false",
-            "Adaptive":"True",
+            "Adaptive":"true",
             "HideHands":"false",
             "IsSkinny":"false"
         },
@@ -521,12 +613,43 @@
                 "Hash":"0630d9e7330289a5faeb236f84e27435"
             },
             "Bounce":"false",
-            "Adaptive":"True",
+            "Adaptive":"true",
             "HideHands":"false",
-            "IsSkinny":"false"
+            "IsSkinny":"false",
+            "SeekerAlternative" : {
+                "Author" : "セオノ",
+                "Name" : "魔女2_Ber"
+            }
         },
         {
-        	"Main" : {
+			"Adaptive" : true,
+			"Main" : {
+				"Hash" : "04cdc80d0c8090f7272a25e54a45e518",
+				"Address" : "xILXk0KSb_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "1f3d0e1d352ec696717caaac678db9fc",
+				"Address" : "xILXk0KSb_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "d00b9bb9658d6eda8d9fe9b572c5c10e",
+				"Address" : "xILXk0KSb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "魔女2_Ber",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats",
+			"IsHidden":true
+		},
+        {
+            "Main" : {
 				"Hash" : "d0ac59ecf1039b118cb93a40321db7fe",
 				"Address" : "ipnQoZ0Lb_Main.png",
 				"ExIsFront" : false
