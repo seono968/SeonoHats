@@ -28,7 +28,8 @@
 		"condition": "None",
 		"resource": "vtuberstyle_adaptive.png",
 		"climbresource": "vtuberstyle_adaptive_climb.png",
-		"adaptive": true
+		"adaptive": true,
+        "SeekerCostume": false
 	},
 	{
 		"name": "ゴスロリ",
@@ -105,7 +106,8 @@
             "resource": "SimpleRobeSON_adaptive.png",
             "backresource": "SimpleRobeSON_back.png",
             "climbresource": "SimpleRobeSON_climb.png",
-            "adaptive": true
+            "adaptive": true,
+            "SeekerCostume": false
         },
         {
             "name": "ローブColor",
@@ -115,7 +117,8 @@
             "resource": "SimpleRobeSONcolor_adaptive.png",
             "backresource": "SimpleRobeSONcolor_back.png",
             "climbresource": "SimpleRobeSONcolor_climb.png",
-            "adaptive": true
+            "adaptive": true,
+            "SeekerCostume": false
         },
 		{
 			"name": "大天使",
@@ -146,7 +149,8 @@
             "package": "SeonoHats",
             "condition": "None",
             "resource": "XmasCapeSON.png",
-            "climbresource": "XmasCapeSON_climb.png"
+            "climbresource": "XmasCapeSON_climb.png",
+            "SeekerCostume": false
         },
 		{
             "name": "ふわねこケープ",
@@ -154,7 +158,8 @@
             "package": "SeonoHats",
             "condition": "None",
             "resource": "SONFuwaNekoCape.png",
-            "climbresource": "SONFuwaNekoCape_climb.png"
+            "climbresource": "SONFuwaNekoCape_climb.png",
+            "SeekerCostume": false
         },
         {
             "name": "ふわねこケープColor",
@@ -163,7 +168,8 @@
             "condition": "None",
             "resource": "SONFuwaNekoCapeColor_adaptive.png",
             "climbresource": "SONFuwaNekoCapeColor_climb.png",
-            "adaptive": true
+            "adaptive": true,
+            "SeekerCostume": false
         },
 		{   
             "name":"おばけ",
@@ -172,7 +178,8 @@
             "condition":"None",
             "resource":"SONghostMain.png",
             "climbresource":"SONghostClimb.png",
-            "backresource":"SONghostBack.png"
+            "backresource":"SONghostBack.png",
+            "SeekerCostume": false
         },
         {
             "name":"カラフルおばけ",
@@ -182,7 +189,8 @@
             "resource":"SONghostAdaMain.png",
             "climbresource":"SONghostAdaClimb.png",
             "backresource":"SONghostAdaBack.png",
-            "adaptive":true
+            "adaptive":true,
+            "SeekerCostume": false
         },
         {
             "name":"コウモリ",
