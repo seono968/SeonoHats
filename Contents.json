@@ -717,7 +717,59 @@
 			"Name" : "麗しきこの肉体(陽気)",
 			"Author" : "セオノ",
 			"Package" : "SeonoHats"
-        }
+        },
+        {
+			"Main" : {
+				"Hash" : "8e64d2ceab33751ad66e2e48dc37d435",
+				"Address" : "e1tc5m_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "c11d029591ee85de7e751090c60fb681",
+				"Address" : "e1tc5m_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "03f5d464c0f1f786c3b8900343620e13",
+				"Address" : "e1tc5m_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "悪魔",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats"
+		},
+		{
+			"Main" : {
+				"Hash" : "7590f163bc3a435ba7bdcd32039bd145",
+				"Address" : "cLnv8c_Main.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "f9efc157f413d7fb96fca66781c3848c",
+				"Address" : "cLnv8c_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "de38cc419a380141518fa693550fa4f8",
+				"Address" : "cLnv8c_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "クラゲ",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats"
+		}
     ],
     "Visors" : [
 		{
@@ -787,58 +839,6 @@
 			"Fixed" : false,
 			"FPS" : 1,
 			"Name" : "麗しきこの肉体(陽気)",
-			"Author" : "セオノ",
-			"Package" : "SeonoHats"
-		},
-        {
-			"Main" : {
-				"Hash" : "8e64d2ceab33751ad66e2e48dc37d435",
-				"Address" : "e1tc5m_Main.png",
-				"ExIsFront" : false
-			},
-			"Back" : {
-				"Hash" : "c11d029591ee85de7e751090c60fb681",
-				"Address" : "e1tc5m_Back.png",
-				"ExIsFront" : false
-			},
-			"Climb" : {
-				"Hash" : "03f5d464c0f1f786c3b8900343620e13",
-				"Address" : "e1tc5m_Climb.png",
-				"ExIsFront" : false
-			},
-			"Bounce" : false,
-			"Adaptive" : true,
-			"HideHands" : false,
-			"IsSkinny" : false,
-			"SeekerCostume" : true,
-			"FPS" : 1,
-			"Name" : "悪魔",
-			"Author" : "セオノ",
-			"Package" : "SeonoHats"
-		},
-		{
-			"Main" : {
-				"Hash" : "7590f163bc3a435ba7bdcd32039bd145",
-				"Address" : "cLnv8c_Main.png",
-				"ExIsFront" : false
-			},
-			"Back" : {
-				"Hash" : "f9efc157f413d7fb96fca66781c3848c",
-				"Address" : "cLnv8c_Back.png",
-				"ExIsFront" : false
-			},
-			"Climb" : {
-				"Hash" : "de38cc419a380141518fa693550fa4f8",
-				"Address" : "cLnv8c_Climb.png",
-				"ExIsFront" : false
-			},
-			"Bounce" : false,
-			"Adaptive" : true,
-			"HideHands" : false,
-			"IsSkinny" : false,
-			"SeekerCostume" : true,
-			"FPS" : 1,
-			"Name" : "クラゲ",
 			"Author" : "セオノ",
 			"Package" : "SeonoHats"
 		}
