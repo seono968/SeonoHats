@@ -266,6 +266,24 @@
             "condition": "None",
             "package": "SeonoHats",
             "resource": "Fdd81hwab_Main.png"
+        },
+        {
+            "name": "クラゲ",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "cLnv8c_Main.png",
+            "backresource": "cLnv8c_Back.png",
+            "climbresource": "cLnv8c_Climb.png"
+        },
+        {
+            "name": "悪魔",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "e1tc5m_Main.png",
+            "backresource": "e1tc5m_Back.png",
+            "climbresource": "e1tc5m_Climb.png"
         }
 	]
 }
