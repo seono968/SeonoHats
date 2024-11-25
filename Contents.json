@@ -769,6 +769,90 @@
 			"Name" : "クラゲ",
 			"Author" : "セオノ",
 			"Package" : "SeonoHats"
+		},
+        {
+			"Main" : {
+				"Hash" : "86bffc02ba426d6fa2bd84e1d7665d07",
+				"Address" : "tDGUTh7Pb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "29e14f36d78f40b6f186c185c04dda34",
+				"Address" : "tDGUTh7Pb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "ウェディングドレス",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats"
+		},
+		{
+			"Main" : {
+				"Hash" : "117a277a0e949c7c46f1303608fb9ce5",
+				"Address" : "GnjUDZEm_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "46e95c18bdfabb31093089f9897762d1",
+				"Address" : "GnjUDZEm_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "カラードレス",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats"
+		},
+		{
+			"Main" : {
+				"Hash" : "0f2b8d6cb2176f5c00fa96c84471db21",
+				"Address" : "5IGYJTds_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "5d0e4f9c422b2661e31c4ad3b7048ee1",
+				"Address" : "5IGYJTds_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "タキシード",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats"
+		},
+		{
+			"Main" : {
+				"Hash" : "5de97e2e4ceb5ec88d17c1ddece63e28",
+				"Address" : "ck58rhCQb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "64228c723ed81efecdeeba6537c3ae18",
+				"Address" : "ck58rhCQb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "カラータキシード",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats"
 		}
     ],
     "Visors" : [

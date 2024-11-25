@@ -274,7 +274,8 @@
             "package": "SeonoHats",
             "resource": "cLnv8c_Main.png",
             "backresource": "cLnv8c_Back.png",
-            "climbresource": "cLnv8c_Climb.png"
+            "climbresource": "cLnv8c_Climb.png",
+            "adaptive":true
         },
         {
             "name": "悪魔",
@@ -284,6 +285,40 @@
             "resource": "e1tc5m_Main.png",
             "backresource": "e1tc5m_Back.png",
             "climbresource": "e1tc5m_Climb.png"
+        },
+        {
+            "name": "ウェディングドレス",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "tDGUTh7Pb_Main.png",
+            "climbresource": "tDGUTh7Pb_Climb.png"
+        },
+        {
+            "name": "カラードレス",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "GnjUDZEm_Main.png",
+            "climbresource": "GnjUDZEm_Climb.png",
+            "adaptive":true
+        },
+        {
+            "name": "タキシード",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "5IGYJTds_Main.png",
+            "climbresource": "5IGYJTds_Climb.png"
+        },
+        {
+            "name": "カラータキシード",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoHats",
+            "resource": "ck58rhCQb_Main.png",
+            "climbresource": "ck58rhCQb_Climb.png",
+            "adaptive":true
         }
 	]
 }
