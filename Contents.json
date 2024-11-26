@@ -785,11 +785,36 @@
 			"Adaptive" : false,
 			"HideHands" : false,
 			"IsSkinny" : false,
-			"SeekerCostume" : true,
 			"FPS" : 1,
 			"Name" : "ウェディングドレス",
 			"Author" : "セオノ",
-			"Package" : "SeonoHats"
+			"Package" : "SeonoHats",
+            "SeekerAlternative" : {
+                "Author" : "セオノ",
+                "Name" : "ウェディングドレス_Ber"
+            }
+		},
+        {
+			"Main" : {
+				"Hash" : "0f8d41de5442de225d158f36171cd15b",
+				"Address" : "ZILR6Tbbb_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "020d211c54d94becfe27bf136856806a",
+				"Address" : "ZILR6Tbbb_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "ウェディングドレス_Ber",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats",
+            "IsHidden":true
 		},
 		{
 			"Main" : {
@@ -806,11 +831,36 @@
 			"Adaptive" : true,
 			"HideHands" : false,
 			"IsSkinny" : false,
-			"SeekerCostume" : true,
 			"FPS" : 1,
 			"Name" : "カラードレス",
 			"Author" : "セオノ",
-			"Package" : "SeonoHats"
+			"Package" : "SeonoHats",
+            "SeekerAlternative" : {
+                "Author" : "セオノ",
+                "Name" : "カラードレス_Ber"
+            }
+		},
+        {
+			"Main" : {
+				"Hash" : "8527f08d792806a065083fc560536e66",
+				"Address" : "sD7SE4zg_Main.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "8eb50f795e138218acb575c26fae311b",
+				"Address" : "sD7SE4zg_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+			"FPS" : 1,
+			"Name" : "カラードレス_Ber",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats",
+			"IsHidden":true
 		},
 		{
 			"Main" : {
@@ -827,7 +877,7 @@
 			"Adaptive" : false,
 			"HideHands" : false,
 			"IsSkinny" : false,
-			"SeekerCostume" : true,
+			"SeekerCostume" : false,
 			"FPS" : 1,
 			"Name" : "タキシード",
 			"Author" : "セオノ",
@@ -848,7 +898,7 @@
 			"Adaptive" : true,
 			"HideHands" : false,
 			"IsSkinny" : false,
-			"SeekerCostume" : true,
+			"SeekerCostume" : false,
 			"FPS" : 1,
 			"Name" : "カラータキシード",
 			"Author" : "セオノ",
