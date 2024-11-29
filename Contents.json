@@ -903,6 +903,166 @@
 			"Name" : "カラータキシード",
 			"Author" : "セオノ",
 			"Package" : "SeonoHats"
+		},
+        {
+			"Main" : {
+				"Hash" : "6dc81d814ffc5d9c374c16b5e94f9ca1",
+				"Address" : "AebT8c_Main.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 4
+			},
+			"Flip" : {
+				"Hash" : "cae5b3731f253ef8858d8731a21387b1",
+				"Address" : "AebT8c_Flip.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 4
+			},
+			"Back" : {
+				"Hash" : "d348ca2bc99bf9595726b1e5593d1322",
+				"Address" : "AebT8c_Back.png",
+				"ExIsFront" : false,
+				"Length" : 1
+			},
+			"BackFlip" : {
+				"Hash" : "35cc109bcec0e6198a61c69ea03a7dac",
+				"Address" : "AebT8c_BackFlip.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 4
+			},
+			"Move" : {
+				"Hash" : "7f583d014b91d68baa5a738a068ec2f4",
+				"Address" : "AebT8c_Move.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 2
+			},
+			"MoveFlip" : {
+				"Hash" : "3953f659881f8976c22d795241ee4313",
+				"Address" : "AebT8c_MoveFlip.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 2
+			},
+			"MoveBack" : {
+				"Hash" : "d348ca2bc99bf9595726b1e5593d1322",
+				"Address" : "AebT8c_MoveBack.png",
+				"ExIsFront" : false,
+				"Length" : 1
+			},
+			"MoveBackFlip" : {
+				"Hash" : "9c5aa399e962b498a19ec457ec9b5a03",
+				"Address" : "AebT8c_MoveBackFlip.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 2
+			},
+			"Climb" : {
+				"Hash" : "27322b4e7b0c66cc6ed0839dec2dce2d",
+				"Address" : "AebT8c_Climb.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 4
+			},
+			"ClimbDown" : {
+				"Hash" : "0c2d4fc2fc62c4d90a54b956206b7ce7",
+				"Address" : "AebT8c_ClimbDown.png",
+				"ExIsFront" : false,
+				"X" : 3,
+				"Y" : 2
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"FPS" : 30,
+			"Name" : "ドレス",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats",
+            "SeekerAlternative" : {
+                "Author" : "セオノ",
+                "Name" : "ドレス_Ber"
+            }
+		},		
+        {
+			"Main" : {
+				"Hash" : "3c1bc77287686fad15b007e9a748a5b9",
+				"Address" : "IZzi4yNFb_Main.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 4
+			},
+			"Flip" : {
+				"Hash" : "d348ca2bc99bf9595726b1e5593d1322",
+				"Address" : "IZzi4yNFb_Flip.png",
+				"ExIsFront" : false,
+				"Length" : 1
+			},
+			"Back" : {
+				"Hash" : "d348ca2bc99bf9595726b1e5593d1322",
+				"Address" : "IZzi4yNFb_Back.png",
+				"ExIsFront" : false,
+				"Length" : 1
+			},
+			"BackFlip" : {
+				"Hash" : "e13cf962469afc7d41323cc203723e33",
+				"Address" : "IZzi4yNFb_BackFlip.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 4
+			},
+			"Move" : {
+				"Hash" : "1216d806046788244a7e72374b505103",
+				"Address" : "IZzi4yNFb_Move.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 2
+			},
+			"MoveFlip" : {
+				"Hash" : "d348ca2bc99bf9595726b1e5593d1322",
+				"Address" : "IZzi4yNFb_MoveFlip.png",
+				"ExIsFront" : false,
+				"Length" : 1
+			},
+			"MoveBack" : {
+				"Hash" : "d348ca2bc99bf9595726b1e5593d1322",
+				"Address" : "IZzi4yNFb_MoveBack.png",
+				"ExIsFront" : false,
+				"Length" : 1
+			},
+			"MoveBackFlip" : {
+				"Hash" : "527f97d9cd48d28affbf1b735b935e2e",
+				"Address" : "IZzi4yNFb_MoveBackFlip.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 2
+			},
+			"Climb" : {
+				"Hash" : "2ff0c2d88e533c0d4d96afc3d406fc03",
+				"Address" : "IZzi4yNFb_Climb.png",
+				"ExIsFront" : false,
+				"X" : 5,
+				"Y" : 4
+			},
+			"ClimbDown" : {
+				"Hash" : "55259eeeb1d0551f444891445c151567",
+				"Address" : "IZzi4yNFb_ClimbDown.png",
+				"ExIsFront" : false,
+				"X" : 3,
+				"Y" : 2
+			},
+			"Bounce" : false,
+			"Adaptive" : true,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : true,
+            "IsHidden":true,
+			"FPS" : 30,
+			"Name" : "ドレス_Ber",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats"
 		}
     ],
     "Visors" : [
