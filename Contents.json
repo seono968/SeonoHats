@@ -1063,6 +1063,37 @@
 			"Name" : "ドレス_Ber",
 			"Author" : "セオノ",
 			"Package" : "SeonoHats"
+		},
+        {
+			"Main" : {
+				"Hash" : "910ceb6436abf7d98ce6ef59350fd83b",
+				"Address" : "apIkvg_Main.png",
+				"ExIsFront" : false
+			},
+			"Flip" : {
+				"Hash" : "41725a68e1a61ccb118c600ea3210536",
+				"Address" : "apIkvg_Flip.png",
+				"ExIsFront" : false
+			},
+			"Back" : {
+				"Hash" : "f710f25a9fd095f21d69fccf343c29f7",
+				"Address" : "apIkvg_Back.png",
+				"ExIsFront" : false
+			},
+			"Climb" : {
+				"Hash" : "7601dd6f9e468c0506771b974d5e1d38",
+				"Address" : "apIkvg_Climb.png",
+				"ExIsFront" : false
+			},
+			"Bounce" : false,
+			"Adaptive" : false,
+			"HideHands" : false,
+			"IsSkinny" : false,
+			"SeekerCostume" : false,
+			"FPS" : 1,
+			"Name" : "柊紫星",
+			"Author" : "セオノ",
+			"Package" : "SeonoHats"
 		}
     ],
     "Visors" : [
