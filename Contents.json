@@ -35,7 +35,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "Tags" : ["animal"],
+            "Tags" : ["animal", "role.spectre"],
             "Main": {
                 "Address": "kyubi_adaptive.png",
                 "Hash": "1614bbf4a9c20c9f629b14eb273c6e3c"
