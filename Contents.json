@@ -1168,11 +1168,60 @@
 			"Package" : "SeonoHats"
 		}
 	],
-    "packages": [
-            {
-                "Package": "SeonoHats",
-                "Format": "SeonoHats",
-                "Priority" : "1"
+	"stamps": [
+        {
+            "Author": "セオノ",
+            "Package": "SeonoStamps",
+            "Name": "Nice!",
+            "FPS":"1",
+            "Adaptive" : "true",
+            "Image": {
+                "Address": "SON_Nice.png",
+                "Hash" : "0a2cf04ef838709761e9ff5aa488e1cd",
+                "ExAddress": "SON_NiceEx.png",
+                "ExHash" : "66bd310c64888b8af9df8dc9bd051b6d",
+                "ExIsFront": "true"
             }
-    ]
+        },
+        {
+            "Author": "セオノ",
+            "Package": "SeonoStamps",
+            "Name": "Bad",
+            "FPS":"1",
+            "Adaptive" : "true",
+            "Image": {
+                "Address": "SON_Bad.png",
+                "Hash" : "656d951d58fad26bdcf835a60ffb247b",
+                "ExAddress": "SON_BadEx.png",
+                "ExHash" : "89dbb985353f0c6fdcb956d9a6e8b77c",
+                "ExIsFront": "true"
+            }
+        },
+        {
+            "Author": "セオノ",
+            "Package": "SeonoStamps",
+            "Name": "Pien",
+            "FPS":"1",
+            "Adaptive" : "true",
+            "Image": {
+                "Address": "SON_Pien.png",
+                "Hash" : "209334c41917b382dac6569596e4f07c",
+                "ExAddress": "SON_PienEx.png",
+                "ExHash" : "326b17449ab22f4b35c5bd293be497c6",
+                "ExIsFront": "true"
+            }
+        }
+    ],
+	"packages": [
+		{
+			"Package": "SeonoHats",
+			"Format": "Seono Hats",
+			"Priority" : "1"
+		},
+		{
+			"Package": "SeonoStamps",
+			"Format": "Seono Stamps",
+			"Priority" : "1"
+		}
+	]
 }
